@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashin 👋
 
 
-- **Email:** ashin33149@gmail.com  
+- **Email:** ashin33149@gmail.com, p20240495@pilani.bits-pilani.ac.in   
 - **Phone:** 8547924675, 6282511849
 ## Contact Information
 
