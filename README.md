@@ -23,7 +23,7 @@
 
 
 ## Education
-** Junior Research Fellow 
+**Junior Research Fellow 
 * Department of Computer Science and Information Systems, BITS Pilani
 2024 - Current
 **Master of Technology in Computer Science with Specialization in Software Engineering**  
