@@ -24,8 +24,9 @@
 
 ## Education
 **Junior Research Fellow 
-* Department of Computer Science and Information Systems, BITS Pilani
+*Department of Computer Science and Information Systems, BITS Pilani
 2024 - Current
+
 **Master of Technology in Computer Science with Specialization in Software Engineering**  
 *Department of Computer Science, CUSAT*, Kochi, Kerala  
 2022-2024
