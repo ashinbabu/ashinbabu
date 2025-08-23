@@ -5,7 +5,7 @@
 - **Email:** ashin33149@gmail.com | p20240495@pilani.bits-pilani.ac.in  
 - **Phone:** +91 85479 24675 | +91 62825 11849  
 - **[LinkedIn](https://www.linkedin.com/in/ashinbabu33149/):**  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)
+  ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png)
 - **[GitHub](https://github.com/ashinbabu):**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=black)
 
