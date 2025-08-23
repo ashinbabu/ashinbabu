@@ -13,7 +13,7 @@
 
 ## 🎓 Education
 
-**Junior Research Fellow**  
+**Research Scholar**  
 _Department of Computer Science and Information Systems, BITS Pilani_  
 Pilani, Rajasthan  
 2024 – Present
