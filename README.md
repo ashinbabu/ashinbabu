@@ -4,9 +4,9 @@
 
 - **Email:** ashin33149@gmail.com | p20240495@pilani.bits-pilani.ac.in  
 - **Phone:** +91 85479 24675 | +91 62825 11849  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashinbabu33149/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashinbabu33149/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thesleepysociopath)
+
 
 
 ---
