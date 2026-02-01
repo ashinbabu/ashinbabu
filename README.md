@@ -1,29 +1,17 @@
 # Hi there, I'm Ashin 👋
 
-## � GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashinbabu/ashinbabu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-
-### 🏆 Profile Summary
-
 <p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashinbabu&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinbabu&layout=compact&theme=dracula" width="48%" />
 </p>
 
-<p align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="45%" alt="Repos per Language" />
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="45%" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" width="45%" alt="Stats" />
-  <img src="profile-summary-card-output/default/4-productive-time.svg" width="45%" alt="Productive Time" />
-</p>
-
-## �📫 Contact Information
+## Contact Information
 
 - **Email:** ashin33149@gmail.com | ashin.babu@pilani.bits-pilani.ac.in
 - **Phone:** 8547924675
