@@ -10,11 +10,17 @@
 ### 🏆 Profile Summary
 
 <p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" width="45%">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="45%">
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="45%">
-  <img src="profile-summary-card-output/default/3-stats.svg" width="45%">
-  <img src="profile-summary-card-output/default/4-productive-time.svg" width="45%">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="45%" alt="Repos per Language" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="45%" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/default/3-stats.svg" width="45%" alt="Stats" />
+  <img src="profile-summary-card-output/default/4-productive-time.svg" width="45%" alt="Productive Time" />
 </p>
 
 ## �📫 Contact Information
