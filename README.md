@@ -1,9 +1,29 @@
 # Hi there, I'm Ashin 👋
 
-## 📫 Contact Information
+## � GitHub Stats
 
-- **Email:** [Your Email Address]
-- **Phone:** [Your Phone Number]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashinbabu/ashinbabu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashinbabu&show_icons=true&theme=radical" alt="Ashin's GitHub Stats" />
+</p>
+
+### 🏆 Profile Summary
+
+<p align="center">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" width="45%">
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="45%">
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="45%">
+  <img src="profile-summary-card-output/default/3-stats.svg" width="45%">
+  <img src="profile-summary-card-output/default/4-productive-time.svg" width="45%">
+</p>
+
+## �📫 Contact Information
+
+- **Email:** ashin33149@gmail.com | ashin.babu@pilani.bits-pilani.ac.in
+- **Phone:** 8547924675
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashinbabu33149/">
@@ -39,22 +59,3 @@ Kochi, Kerala
 - **Languages:** Python, C++, Java
 - **Interests:** Software Engineering, Research, [Your Other Interests]
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/ashinbabu/ashinbabu/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashinbabu&show_icons=true&theme=radical" alt="Ashin's GitHub Stats" />
-</p>
-
-### 🏆 Profile Summary
-
-<p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" width="45%">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="45%">
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="45%">
-  <img src="profile-summary-card-output/default/3-stats.svg" width="45%">
-  <img src="profile-summary-card-output/default/4-productive-time.svg" width="45%">
-</p>
