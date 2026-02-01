@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashinbabu&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinbabu&layout=compact&theme=dracula" width="48%" />
+  <img src="https://raw.githubusercontent.com/ashinbabu/ashinbabu/metrics/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## Contact Information
