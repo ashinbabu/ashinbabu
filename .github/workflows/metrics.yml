@@ -22,7 +22,7 @@ jobs:
           #  - read:packages (for some packages related metrics)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: metrics
+          committer_branch: output
           committer_message: "chore: update metrics"
 
           # Options
