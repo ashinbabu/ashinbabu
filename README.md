@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashinbabu/ashinbabu/metrics/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ashinbabu/ashinbabu/output/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## Contact Information
