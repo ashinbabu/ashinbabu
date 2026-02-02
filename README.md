@@ -46,6 +46,5 @@ Kochi, Kerala
 ---
 
 ## 🛠 Skills & Interests
-- **Languages:** Python, C++, Java
-- **Interests:** Software Engineering, Research, [Your Other Interests]
-
+- **Languages:** Python, C++, reactJS
+- **Interests:** Software Engineering, Research, Photography
