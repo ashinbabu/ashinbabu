@@ -3,36 +3,26 @@
       <style>
         .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff79c6; }
         .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
-        .stagger { animation: fadeInAnimation 0.8s ease-in-out forwards; }
-        @keyframes fadeInAnimation { from { opacity: 0; transform: translateX(-20px); } to { opacity: 1; transform: translateX(0); } }
+        .bold { font-weight: 700; }
       </style>
       
       <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#44475a" width="99%" fill="#282a36" stroke-opacity="1" />
       
-      <g transform="translate(25, 35)">
-        <text x="0" y="0" class="header">ashinbabu's GitHub Stats</text>
-      </g>
+      <text x="25" y="35" class="header">ashinbabu's GitHub Stats</text>
       
-      <g transform="translate(0, 55)">
-        <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 30)">
-          <text class="stat" x="25" y="12.5">Total Stars Earned:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">4</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 55)">
-          <text class="stat" x="25" y="12.5">Total Commits (2024):</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">74</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 80)">
-          <text class="stat" x="25" y="12.5">Total PRs:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">0</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 105)">
-          <text class="stat" x="25" y="12.5">Total Issues:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">0</text>
-        </g>
-      </g>
+      <text x="25" y="80" class="stat">Total Stars Earned:</text>
+      <text x="230" y="80" class="stat bold">4</text>
+      
+      <text x="25" y="105" class="stat">Total Commits (2026):</text>
+      <text x="230" y="105" class="stat bold">76</text>
+      
+      <text x="25" y="130" class="stat">Total PRs:</text>
+      <text x="230" y="130" class="stat bold">0</text>
+      
+      <text x="25" y="155" class="stat">Total Issues:</text>
+      <text x="230" y="155" class="stat bold">0</text>
+      
+      <text x="25" y="180" class="stat">Contributed to:</text>
+      <text x="230" y="180" class="stat bold">76</text>
     </svg>
     
