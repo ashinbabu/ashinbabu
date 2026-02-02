@@ -67,42 +67,34 @@ def generate_svg(stats):
     TITLE_COLOR = "#ff79c6" # Pink
     BORDER_COLOR = "#44475a"
     
+    current_year = datetime.now().year
+    
     svg_content = f"""
     <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
       <style>
         .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: {TITLE_COLOR}; }}
         .stat {{ font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: {TEXT_COLOR}; }}
-        .stagger {{ animation: fadeInAnimation 0.8s ease-in-out forwards; }}
-        @keyframes fadeInAnimation {{ from {{ opacity: 0; transform: translateX(-20px); }} to {{ opacity: 1; transform: translateX(0); }} }}
+        .bold {{ font-weight: 700; }}
       </style>
       
       <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="{BORDER_COLOR}" width="99%" fill="{BG_COLOR}" stroke-opacity="1" />
       
-      <g transform="translate(25, 35)">
-        <text x="0" y="0" class="header">{USERNAME}'s GitHub Stats</text>
-      </g>
+      <text x="25" y="35" class="header">{USERNAME}'s GitHub Stats</text>
       
-      <g transform="translate(0, 55)">
-        <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 30)">
-          <text class="stat" x="25" y="12.5">Total Stars Earned:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">{stats['stars']}</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 55)">
-          <text class="stat" x="25" y="12.5">Total Commits (2024):</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">{stats['commits']}</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 80)">
-          <text class="stat" x="25" y="12.5">Total PRs:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">{stats['prs']}</text>
-        </g>
-        
-        <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 105)">
-          <text class="stat" x="25" y="12.5">Total Issues:</text>
-          <text class="stat" x="200" y="12.5" font-weight="700">{stats['issues']}</text>
-        </g>
-      </g>
+      <text x="25" y="80" class="stat">Total Stars Earned:</text>
+      <text x="230" y="80" class="stat bold">{stats['stars']}</text>
+      
+      <text x="25" y="105" class="stat">Total Commits ({current_year}):</text>
+      <text x="230" y="105" class="stat bold">{stats['commits']}</text>
+      
+      <text x="25" y="130" class="stat">Total PRs:</text>
+      <text x="230" y="130" class="stat bold">{stats['prs']}</text>
+      
+      <text x="25" y="155" class="stat">Total Issues:</text>
+      <text x="230" y="155" class="stat bold">{stats['issues']}</text>
+      
+      <text x="25" y="180" class="stat">Contributed to:</text>
+      <text x="230" y="180" class="stat bold">{stats['contribs']}</text>
     </svg>
     """
     
