@@ -14,7 +14,7 @@
       <text x="230" y="80" class="stat bold">4</text>
       
       <text x="25" y="105" class="stat">Total Commits (2026):</text>
-      <text x="230" y="105" class="stat bold">78</text>
+      <text x="230" y="105" class="stat bold">83</text>
       
       <text x="25" y="130" class="stat">Total PRs:</text>
       <text x="230" y="130" class="stat bold">0</text>
@@ -23,6 +23,6 @@
       <text x="230" y="155" class="stat bold">0</text>
       
       <text x="25" y="180" class="stat">Contributed to:</text>
-      <text x="230" y="180" class="stat bold">78</text>
+      <text x="230" y="180" class="stat bold">83</text>
     </svg>
     
