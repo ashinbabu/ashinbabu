@@ -31,7 +31,7 @@
 **Research Scholar**
 _Department of Computer Science and Information Systems, BITS Pilani_
 Pilani, Rajasthan
-**2024 – Present**
+**2025 – Present**
 
 **Master of Technology in Computer Science (Specialization: Software Engineering)**
 _Department of Computer Science, CUSAT_
