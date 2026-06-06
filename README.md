@@ -2,7 +2,7 @@
 
 # Hi, I'm Ashin Babu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Research+Scholar+%40+BITS+Pilani;Software+Engineer+%7C+Researcher;Python+%7C+C%2B%2B+%7C+ReactJS+Developer;Photography+Enthusiast+📸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Research+Scholar+%40+BITS+Pilani;AI+ML+Enthusiast+%7C+Researcher;Python+%7C+C%2B%2B+%7C;Photography+Enthusiast+📸)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/ashinbabu33149/">
@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Research Scholar** at BITS Pilani — Department of Computer Science and Information Systems
-- 🔬 Passionate about **Software Engineering research**, building robust systems, and exploring emerging tech
+- 🔬 Passionate about **AI ML**, especially in the area of **Natural language processing and trustworthy AI**
 - 🛠 I enjoy working across the stack — from low-level **C++** to **Python** scripting to **ReactJS** frontends
 - 📸 When I'm not coding, I'm probably behind a camera
 - 📬 Reach me at **ashin33149@gmail.com** or **ashin.babu@pilani.bits-pilani.ac.in**
@@ -69,10 +69,6 @@
   <img src="generated/stats.svg" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashinbabu&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🗂 Featured Projects
@@ -81,7 +77,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔬 **Research Work** | Ongoing research at BITS Pilani — CSIS Dept | Python, Academic Writing |
+| 🔬 **Research Work** | Ongoing research at BITS Pilani — CSIS Dept | Python, Academic Writing,NLP |
+|                      | AI translator tool for Tribal Languages - Ministry of Tribal Affairs | NLP,NMT,HPC|          
 | 📷 **Photography Portfolio** | Visual storytelling through the lens | Photography |
 
 _More coming soon as projects go public!_
