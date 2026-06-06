@@ -1,28 +1,61 @@
+<svg width="495" height="260" viewBox="0 0 495 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header   { font: 700 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff79c6; }
+    .subhead  { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6272a4; }
+    .stat     { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+    .label    { fill: #f8f8f2; }
+    .value    { font-weight: 700; fill: #bd93f9; text-anchor: middle; }
+  </style>
 
-    <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <style>
-        .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff79c6; }
-        .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
-        .bold { font-weight: 700; }
-      </style>
-      
-      <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#44475a" width="99%" fill="#282a36" stroke-opacity="1" />
-      
-      <text x="25" y="35" class="header">ashinbabu's GitHub Stats</text>
-      
-      <text x="25" y="80" class="stat">Total Stars Earned:</text>
-      <text x="230" y="80" class="stat bold">6</text>
-      
-      <text x="25" y="105" class="stat">Total Commits (2026):</text>
-      <text x="230" y="105" class="stat bold">115</text>
-      
-      <text x="25" y="130" class="stat">Total PRs:</text>
-      <text x="230" y="130" class="stat bold">0</text>
-      
-      <text x="25" y="155" class="stat">Total Issues:</text>
-      <text x="230" y="155" class="stat bold">1</text>
-      
-      <text x="25" y="180" class="stat">Contributed to:</text>
-      <text x="230" y="180" class="stat bold">115</text>
-    </svg>
-    
+  <!-- Background -->
+  <rect x="0.5" y="0.5" rx="8" height="99%" stroke="#44475a" width="99%"
+        fill="#282a36" stroke-opacity="1" stroke-width="1.5"/>
+
+  <!-- Accent top bar -->
+  <rect x="0.5" y="0.5" rx="8" height="6" width="99%" fill="#ff79c6" opacity="0.8"/>
+
+  <!-- Title -->
+  <text x="25" y="38" class="header">📊 ashinbabu's GitHub Stats</text>
+  <text x="25" y="56" class="subhead">Auto-updated daily · Dracula theme</text>
+
+  <!-- Divider -->
+  <line x1="25" y1="65" x2="470" y2="65" stroke="#44475a" stroke-width="1"/>
+
+  
+      <!-- Row 1: ⭐ Stars Earned -->
+      <text x="25" y="75" class="stat label">⭐ Stars Earned</text>
+      <text x="310" y="75" class="stat value">1</text>
+      <rect x="25" y="80" width="1" height="4" rx="2" fill="#bd93f9" opacity="0.7"/>
+      <rect x="25" y="80" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+      <!-- Row 2: 💻 Commits (2026) -->
+      <text x="25" y="103" class="stat label">💻 Commits (2026)</text>
+      <text x="310" y="103" class="stat value">117</text>
+      <rect x="25" y="108" width="200" height="4" rx="2" fill="#50fa7b" opacity="0.7"/>
+      <rect x="25" y="108" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+      <!-- Row 3: 🔀 Pull Requests -->
+      <text x="25" y="131" class="stat label">🔀 Pull Requests</text>
+      <text x="310" y="131" class="stat value">0</text>
+      <rect x="25" y="136" width="0" height="4" rx="2" fill="#ffb86c" opacity="0.7"/>
+      <rect x="25" y="136" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+      <!-- Row 4: 🐛 Issues -->
+      <text x="25" y="159" class="stat label">🐛 Issues</text>
+      <text x="310" y="159" class="stat value">1</text>
+      <rect x="25" y="164" width="1" height="4" rx="2" fill="#ff5555" opacity="0.7"/>
+      <rect x="25" y="164" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+      <!-- Row 5: 📁 Repos -->
+      <text x="25" y="187" class="stat label">📁 Repos</text>
+      <text x="310" y="187" class="stat value">12</text>
+      <rect x="25" y="192" width="20" height="4" rx="2" fill="#8be9fd" opacity="0.7"/>
+      <rect x="25" y="192" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+      <!-- Row 6: 🤝 Contributed To -->
+      <text x="25" y="215" class="stat label">🤝 Contributed To</text>
+      <text x="310" y="215" class="stat value">5</text>
+      <rect x="25" y="220" width="8" height="4" rx="2" fill="#50fa7b" opacity="0.7"/>
+      <rect x="25" y="220" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
+
+</svg>
