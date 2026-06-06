@@ -37,26 +37,14 @@
 
 ## 🛠 Skills & Technologies
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+**Languages:** Python · C++ · JavaScript
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+**Frameworks & Libraries:** ReactJS · Node.js
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+**Tools & Platforms:** Git · GitHub · Linux · VS Code
 
-### Research Interests
-<img src="https://img.shields.io/badge/NLP-BD93F9?style=flat-square&logoColor=white" alt="NLP" />
-<img src="https://img.shields.io/badge/Trustworthy%20AI-FF79C6?style=flat-square&logoColor=white" alt="Trustworthy AI" />
-<img src="https://img.shields.io/badge/Machine%20Learning-50FA7B?style=flat-square&logoColor=black" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Software%20Engineering-8BE9FD?style=flat-square&logoColor=black" alt="Software Engineering" />
+**Research Interests:** NLP · Trustworthy AI · Machine Learning · Software Engineering
+
 
 ---
 
