@@ -30,31 +30,31 @@
 
       <!-- Row 2: 💻 Commits (2026) -->
       <text x="25" y="103" class="stat label">💻 Commits (2026)</text>
-      <text x="310" y="103" class="stat value">120</text>
+      <text x="310" y="103" class="stat value">128</text>
       <rect x="25" y="108" width="200" height="4" rx="2" fill="#50fa7b" opacity="0.7"/>
       <rect x="25" y="108" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
 
       <!-- Row 3: 🔀 Pull Requests -->
       <text x="25" y="131" class="stat label">🔀 Pull Requests</text>
-      <text x="310" y="131" class="stat value">0</text>
-      <rect x="25" y="136" width="0" height="4" rx="2" fill="#ffb86c" opacity="0.7"/>
+      <text x="310" y="131" class="stat value">3</text>
+      <rect x="25" y="136" width="4" height="4" rx="2" fill="#ffb86c" opacity="0.7"/>
       <rect x="25" y="136" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
 
       <!-- Row 4: 🐛 Issues -->
       <text x="25" y="159" class="stat label">🐛 Issues</text>
-      <text x="310" y="159" class="stat value">0</text>
-      <rect x="25" y="164" width="0" height="4" rx="2" fill="#ff5555" opacity="0.7"/>
+      <text x="310" y="159" class="stat value">1</text>
+      <rect x="25" y="164" width="1" height="4" rx="2" fill="#ff5555" opacity="0.7"/>
       <rect x="25" y="164" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
 
       <!-- Row 5: 📁 Repos -->
       <text x="25" y="187" class="stat label">📁 Repos</text>
-      <text x="310" y="187" class="stat value">14</text>
+      <text x="310" y="187" class="stat value">15</text>
       <rect x="25" y="192" width="23" height="4" rx="2" fill="#8be9fd" opacity="0.7"/>
       <rect x="25" y="192" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
 
       <!-- Row 6: 🤝 Contributed To -->
       <text x="25" y="215" class="stat label">🤝 Contributed To</text>
-      <text x="310" y="215" class="stat value">6</text>
+      <text x="310" y="215" class="stat value">7</text>
       <rect x="25" y="220" width="10" height="4" rx="2" fill="#50fa7b" opacity="0.7"/>
       <rect x="25" y="220" width="200" height="4" rx="2" fill="#44475a" opacity="0.3"/>
 
