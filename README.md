@@ -69,8 +69,8 @@
 |---------|-------------|-------|
 | 🤖 [**SmolVLA Implementation**](https://github.com/ashinbabu/smolVLA-implementation) | SmolVLA fine-tuning and simulation experiments | Python, LeRobot, MuJoCo |
 | 🎨 [**CatDiffusion**](https://github.com/ashinbabu/catDiffusion) | Educational implementation of a pixel-space diffusion model | Python, PyTorch |
-| 🌐 **Tribal Language Translator** | AI translator tool for Tribal Languages — Ministry of Tribal Affairs | NLP, NMT, HPC |
-| 📷 **Photography Portfolio** | Visual storytelling through the lens | Photography |
+| 🌐 [**Tribal Language Translator**](https://adivaani.tribal.gov.in/) | AI translator tool for Tribal Languages — Ministry of Tribal Affairs | NLP, NMT, HPC |
+| 📷 [**Photography Portfolio**](https://ashinbabu.github.io/photography/) | Visual storytelling through the lens | Photography |
 
 ---
 
