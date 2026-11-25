@@ -29,7 +29,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Research Scholar** at BITS Pilani — Department of Computer Science and Information Systems
-- 🔬 Passionate about **AI ML**, especially in the area of **Natural language processing and trustworthy AI**
+- 🔬 My research interests include **multimodal AI**, **embodied intelligence**, and building AI systems that behave reliably in interactive environments
 - 🛠 I enjoy working across the stack — from low-level **C++** to **Python** scripting to **ReactJS** frontends
 - 📸 When I'm not coding, I'm probably behind a camera
 - 📬 Reach me at **ashin33149@gmail.com** or **ashin.babu@pilani.bits-pilani.ac.in**
@@ -44,7 +44,7 @@
 
 **Tools & Platforms:** Git · GitHub · Linux · VS Code
 
-**Research Interests:** NLP · Trustworthy AI · Machine Learning · Software Engineering
+**Research Interests:** Multimodal AI · Embodied Intelligence · Reliable AI · Machine Learning
 
 
 ---
@@ -67,11 +67,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔬 **Research Work** | Ongoing research at BITS Pilani — CSIS Dept | Python, Academic Writing,NLP |
-|                      | AI translator tool for Tribal Languages - Ministry of Tribal Affairs | NLP,NMT,HPC|          
+| 🤖 [**SmolVLA Implementation**](https://github.com/ashinbabu/smolVLA-implementation) | SmolVLA fine-tuning and simulation experiments | Python, LeRobot, MuJoCo |
+| 🎨 [**CatDiffusion**](https://github.com/ashinbabu/catDiffusion) | Educational implementation of a pixel-space diffusion model | Python, PyTorch |
+| 🌐 **Tribal Language Translator** | AI translator tool for Tribal Languages — Ministry of Tribal Affairs | NLP, NMT, HPC |
 | 📷 **Photography Portfolio** | Visual storytelling through the lens | Photography |
-
-_More coming soon as projects go public!_
 
 ---
 
