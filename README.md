@@ -2,7 +2,7 @@
 
 # Hi, I'm Ashin Babu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Research+Scholar+%40+BITS+Pilani;AI+ML+Enthusiast+%7C+Researcher;Python+%7C+C%2B%2B+%7C;Photography+Enthusiast+📸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=PhD+Researcher+%40+BITS+Pilani)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/ashinbabu33149/">
